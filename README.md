@@ -31,7 +31,7 @@ Welcome to the **Decentralized Image Upload and Sharing Platform**! This project
 
 1. Clone the repository:
 git clone https://github.com/PSatakshee/Cloud3.git
-cd decentralized-cloud-platform
+cd Cloud3
 
 
 2. Install dependencies:
