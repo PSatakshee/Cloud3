@@ -41,29 +41,8 @@ npm start
 
 ---
 
-## **📂 Folder Structure**
-client/
-├── public/ # Static assets like images and index.html
-├── src/
-│ ├── components/ # React components (FileUpload, FileList, AccessControl)
-│ ├── utils/ # Utility functions (e.g., IPFS integration)
-│ ├── App.js # Main application component
-│ └── index.js # Entry point of the app
-└── package.json # Project metadata and dependencies
-
-
----
 
 ## **📖 Learn More**
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [Ethers.js Documentation](https://docs.ethers.io/)
 - [Pinata API Documentation](https://www.pinata.cloud/documentation)
-
----
-
-## **🤝 Contributing**
-Feel free to contribute by submitting issues or pull requests!
-
----
-
-🌟 Thank you for using our platform! 🌟
