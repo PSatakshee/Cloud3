@@ -20,18 +20,6 @@ Welcome to the **Decentralized Image Upload and Sharing Platform**! This project
 
 ---
 
-## **📂 Project Structure**
-decentralized-cloud/
-├── contracts/ # Solidity smart contracts
-├── scripts/ # Deployment scripts for Hardhat
-├── test/ # Smart contract tests
-├── client/ # React frontend application
-├── hardhat.config.js # Hardhat configuration file
-└── README.md # Project documentation
-
-
----
-
 ## **🚀 Getting Started**
 
 ### Prerequisites
@@ -42,7 +30,7 @@ decentralized-cloud/
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/decentralized-cloud-platform.git
+git clone https://github.com/PSatakshee/Cloud3.git
 cd decentralized-cloud-platform
 
 
@@ -84,16 +72,4 @@ npm start
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [IPFS Documentation](https://docs.ipfs.io/)
 
----
 
-## **🤝 Contributing**
-Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
-
----
-
-## **📜 License**
-This project is licensed under the MIT License.
-
----
-
-🌟 Happy Coding! 🌟
